@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Java Development<br>🌱 I’m currently learning Full Stack Web Development <br>💬 Ask me about Java and Design Theory<br>⚡ Also I'm working on UI/UX Designing<br><br>
 
-
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/sammedbadde) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sammed_badde) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sammedbadde) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sammedbadde10) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sammedbadde10@gmail.com) 
 
