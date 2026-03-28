@@ -1,5 +1,9 @@
 <!-- ====================== RECRUITER KILLER PROFILE ====================== -->
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00FF9F&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Building+Scalable+Systems;DSA+%7C+MySQL+%7C+Problem+Solving" />
+</p>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:6E07F3,100:00FF9F&height=240&section=header&text=Sammed%20Badde&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </div>
@@ -38,6 +42,7 @@ I build **scalable backend systems**, write clean code, and focus on strong fund
 
 ---
 
+
 ## 🏆 Achievements
 
 * Solved multiple problems in **Java (DSA)**
@@ -45,8 +50,14 @@ I build **scalable backend systems**, write clean code, and focus on strong fund
 * Strong focus on backend fundamentals
 
 ---
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAMMEDBADDE&theme=tokyo-night&hide_border=true" />
+</p>
 
 ## 🤝 Let's Connect
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="120" />
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/sammedbadde">
