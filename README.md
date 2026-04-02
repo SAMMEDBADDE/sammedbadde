@@ -13,7 +13,7 @@
 
 ## 👋 Thank you for visiting I'am a
 
-### 🚀 Web developer Developer | Linux and database explorer 
+### 🚀 Web Developer | Linux and database explorer 
 
 I build **scalable backend systems**, write clean code, and focus on strong fundamentals in **Java, DSA, and databases**.
 
