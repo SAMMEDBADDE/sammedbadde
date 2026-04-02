@@ -1,7 +1,7 @@
 <!-- ====================== RECRUITER KILLER PROFILE ====================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00FF9F&center=true&vCenter=true&width=500&lines=Web+Developer;Building+Scalable+Systems; Linux+%7C+MySQL+%7C+Problem+Solving" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00FF9F&center=true&vCenter=true&width=500&lines=Web+Developer;Building+Scalable+Systems;Linux+%7C+MySQL+%7C+Problem+Solving" />
 </p>
 
 <div align="center">
