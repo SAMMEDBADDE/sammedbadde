@@ -13,12 +13,12 @@
 
 ## 👋 Thank you for visiting I'am a
 
-### 🚀 Aspiring Java Backend Developer
+### 🚀 Web developer Developer | Linux and database explorer 
 
 I build **scalable backend systems**, write clean code, and focus on strong fundamentals in **Java, DSA, and databases**.
 
-* 💻 Working with **Java, MySQL, JavaScript**
-* ⚙️ Focused on **backend development & problem solving**
+* 💻 Working with **Java, MySQL, Linux**
+* ⚙️ Focused on **development & database improvements**
 * 📚 Continuously learning system design & real-world architecture
 
 ---
@@ -45,7 +45,6 @@ I build **scalable backend systems**, write clean code, and focus on strong fund
 
 ## 🏆 Achievements
 
-* Solved multiple problems in **Java (DSA)**
 * Built real-world mini projects
 * Strong focus on backend fundamentals
 
@@ -71,5 +70,5 @@ I build **scalable backend systems**, write clean code, and focus on strong fund
 ---
 
 <div align="center">
-  <strong>💡 Focused on building scalable and efficient backend systems</strong>
+  <strong>💡 Focused on building optimized and efficient database systems</strong>
 </div>
