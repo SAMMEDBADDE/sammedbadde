@@ -1,7 +1,7 @@
-<!-- ====================== RECRUITER KILLER PROFILE ====================== -->
+<!-- ====================== DATABASE ENGINEER PROFILE ====================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00FF9F&center=true&vCenter=true&width=500&lines=Web+Developer;Building+Scalable+Systems;Linux+%7C+MySQL+%7C+Problem+Solving" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00FF9F&center=true&vCenter=true&width=600&lines=SQL+%7C+MySQL+%7C+Linux;Aspiring+Database+Engineer;Building+Data+Driven+Systems" />
 </p>
 
 <div align="center">
@@ -10,53 +10,56 @@
 
 <br>
 
+## 👋 Hello, I'm Sammed
 
-## 👋 Thank you for visiting I'am a
+### 🚀 Aspiring Database Engineer | SQL • MySQL • Linux
 
-### 🚀 Web Developer | Linux and database explorer 
+I focus on building **data-driven systems**, writing optimized SQL queries, and understanding how databases power real-world applications.
 
-I build **scalable backend systems**, write clean code, and focus on strong fundamentals in **Java, DSA, and databases**.
-
-* 💻 Working with **Java, MySQL, Linux**
-* ⚙️ Focused on **development & database improvements**
-* 📚 Continuously learning system design & real-world architecture
+* 💻 Working with **MySQL, SQL, Linux**
+* 📊 Built **E-Commerce Analytics System (SQL Project)**
+* ⚙️ Focused on **query optimization & database design**
+* 📚 Learning **AWS (RDS, EC2) & system fundamentals**
 
 ---
 
 ## 🧠 Tech Stack
 
-### 💻 Languages
+### 💻 Core Skills
+[![Core](https://skillicons.dev/icons?i=mysql,linux,git,github\&theme=dark)](https://skillicons.dev)
 
-[![Languages](https://skillicons.dev/icons?i=java,javascript,c,html,css\&theme=dark)](https://skillicons.dev)
-
-### 🛠️ Tools & Technologies
-
-[![Tools](https://skillicons.dev/icons?i=mysql,git,github,vscode,figma\&theme=dark)](https://skillicons.dev)
+### 📌 Languages
+[![Languages](https://skillicons.dev/icons?i=java,c\&theme=dark)](https://skillicons.dev)
 
 ---
 
+## 📊 Featured Project
 
-<img src="https://streak-stats.demolab.com?user=SAMMEDBADDE&theme=tokyonight&hide_border=true" />
+### 🛒 E-Commerce Analytics System
 
-</div>
+- Designed relational database schema (customers, orders, products)
+- Analyzed **revenue, top products, and customer behavior**
+- Used **JOINs, GROUP BY, aggregations**
+- Applied **indexing for performance improvement**
+
+📂 Check it here:  
+👉 https://github.com/SAMMEDBADDE/ecommerce-sql-project
 
 ---
 
+## 📈 GitHub Stats
 
-## 🏆 Achievements
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SAMMEDBADDE&theme=tokyonight&hide_border=true" />
+</p>
 
-* Built real-world mini projects
-* Strong focus on backend fundamentals
-
----
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAMMEDBADDE&theme=tokyo-night&hide_border=true" />
 </p>
 
+---
+
 ## 🤝 Let's Connect
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="120" />
-</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/sammedbadde">
@@ -70,5 +73,5 @@ I build **scalable backend systems**, write clean code, and focus on strong fund
 ---
 
 <div align="center">
-  <strong>💡 Focused on building optimized and efficient database systems</strong>
+  <strong>💡 Focused on becoming a Database Engineer and solving real-world data problems</strong>
 </div>
